@@ -1,5 +1,6 @@
 # E03b-JSON
-This exercise will give you the opportunity to edit an existing JSON file (in the game-description format we are using for MSCH-C220). Fork and Clone this repository and then make the following edits to zork.json:
+
+This exercise was to edit an existing JSON file. First forking and cloning the repository then making the following edits to zork.json:
 
  - Change the exit in FORE3 from UP to DOWN
  - Add a desc in MGRAT: "If you stay here much longer, you will be eaten by a Grue"
@@ -12,6 +13,3 @@ This exercise will give you the opportunity to edit an existing JSON file (in th
  - In DEAD7, change the description to "You have reached a dead end"
  - In CP change the name to "Just a room (not at all suspicious)"
  
-If you need to check to see if you have produced a valid JSON file, you can validate it at https://jsonformatter.org/json-editor.
-
-Edit the LICENSE and README.md and submit a URL to your repository on Canvas.
